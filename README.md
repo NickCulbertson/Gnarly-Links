@@ -17,6 +17,7 @@ An Open Source HTML Template to link your music/game/software product pages in o
 ## Demos
 
 Website - [http://www.gnarlylinks.com](http://www.gnarlylinks.com)
+
 Music Example - [http://www.mobypixel.com/synthwave-escape-original-game-soundtrack](http://www.mobypixel.com/synthwave-escape-original-game-soundtrack)
 
 ## Implementation
