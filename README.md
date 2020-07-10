@@ -5,9 +5,13 @@ An Open Source HTML Template to link your music/game/software product pages in o
 ## Features
 
 • Clean Mobile-First Design
+
 • Attractive Social Media Embeds
+
 • Store Marketing Badges
+
 • Easy to Use
+
 • Fully Customizable & Open Source
 
 ## Demos
@@ -110,5 +114,3 @@ If you have any questions, suggestions, or feedback please send it my way. This 
 
 Enjoy!
 Nick Culbertson
-
-![alt tag]()
