@@ -5,14 +5,19 @@ An Open Source HTML Template to link your music/game/software product pages in o
 ## Features
 
 • Clean Mobile-First Design
+
 • Attractive Social Media Embeds
+
 • Store Marketing Badges
+
 • Easy to Use
+
 • Fully Customizable & Open Source
 
 ## Demos
 
 Website - [http://www.gnarlylinks.com](http://www.gnarlylinks.com)
+
 Music Example - [http://www.mobypixel.com/synthwave-escape-original-game-soundtrack](http://www.mobypixel.com/synthwave-escape-original-game-soundtrack)
 
 ## Implementation
@@ -106,9 +111,8 @@ Add social media links to the bottom of the page:
 
 This project was born out of neccessity. I launched an album to all the platforms, and I relied on a service to share those links in one place. I didn't like the idea of those pages going away if I stopped using their service, so I made my own. I'm making this template Open Source because I want to empower creatives to support themselves. You've worked too hard, too long to give away control. I hope it helps make a first impression for your followers most triumphant! 
 
-If you have any questions, suggestions, or feedback please send it my way. This is as much for me as it is for you.
+If you have any questions, suggestions, or feedback please send them my way. This is as much for me as it is for you.
 
 Enjoy!
-Nick Culbertson
 
-![alt tag]()
+Nick Culbertson
