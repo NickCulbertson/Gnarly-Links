@@ -2,6 +2,7 @@
 
 An Open Source HTML Template to link your music/game/software product pages in one place. It's as easy as adding a page to your site.
 
+
 ## Features
 
 • Clean Mobile-First Design
@@ -14,11 +15,13 @@ An Open Source HTML Template to link your music/game/software product pages in o
 
 • Fully Customizable & Open Source
 
+
 ## Demos
 
 Website - [http://www.gnarlylinks.com](http://www.gnarlylinks.com)
 
 Music Example - [http://www.mobypixel.com/synthwave-escape-original-game-soundtrack](http://www.mobypixel.com/synthwave-escape-original-game-soundtrack)
+
 
 ## Implementation
 
@@ -61,6 +64,7 @@ Example: App Store Link
 `http://www.YOUR_WEBSITE_NAME.com/YOUR_FOLDER_NAME`
 
 7. Share the link and do the happy dance!
+
 
 ## Optional Features
 
@@ -106,6 +110,7 @@ Add social media links to the bottom of the page:
     </p>
 </div>
 ```
+
 
 ## About Gnarly Links
 
