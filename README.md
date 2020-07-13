@@ -116,7 +116,7 @@ Add social media links to the bottom of the page:
 </div>
 ```
 
-Embed a YouTube video like in the Game Example by getting the embed code from the "share" button on your video's page and pasting into your `<div class="descriptionDiv">` (note the changes to the video width and height):
+Embed a YouTube video by copying the embed code from the "share" button on your video's page, and pasting it inside of your `<div class="descriptionDiv">` tag (See the [Game Example](http://www.mobypixel.com/synthwave-escape)). Note the changes to the video's width and height:
 ```
 <!-- YouTube Preview Video -->
 <iframe width="320" height="180" src="YOUR_EMBED_LINK" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
