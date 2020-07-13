@@ -133,4 +133,4 @@ Nick Culbertson
 
 Share this page or drop some change in the tip jar.
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](HKHYVRMC53W7C)
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](mobypixel@gmail.com)
