@@ -3,7 +3,6 @@
 An Open Source HTML Template to link your music/game/software product pages in one place. It's as easy as adding a page to your site.
 
 
-
 ## Features
 
 • Clean Mobile-First Design
@@ -131,6 +130,6 @@ Nick Culbertson
 
 ## Want to support Gnarly Links?
 
-Share this page or drop some change in the tip jar.
+Share this page or drop some change in the tip jar. Donations are not required, but greatly appreciated! :D
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HKHYVRMC53W7C)
