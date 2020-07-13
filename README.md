@@ -126,10 +126,12 @@ If you have any questions, suggestions, or feedback please send them my way. Thi
 
 Enjoy!
 
-Nick Culbertson
+Nick Culbertson [@MobyPixel](https://twitter.com/MobyPixel)
+[MobyPixel.com](http://www.mobypixel.com)
+
 
 ## Want to support Gnarly Links?
 
-Share this page or drop some change in the tip jar. Donations are not required, but greatly appreciated! :D
+Share this project or drop some change in the tip jar. Donations are not required, but greatly appreciated! :D
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HKHYVRMC53W7C)
