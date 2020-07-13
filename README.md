@@ -10,20 +10,22 @@ An Open Source HTML Template to link your music/game/software product pages in o
 
 • Attractive Social Media Embeds
 
-• Store Marketing Badges
+• Store Marketing Badges **
 
 • Easy to Use
 
 • Fully Customizable & Open Source
 
+** All marketing badges are trademarks of their respective companies. They are presented in accordance to their marketing resources and identity guidelines. See their sites for more info on presenting marketing banners to their specifications.
 
 
 ## Demos
 
-Website - [http://www.gnarlylinks.com](http://www.gnarlylinks.com)
+Website: [http://www.gnarlylinks.com](http://www.gnarlylinks.com)
 
-Music Example - [http://www.mobypixel.com/synthwave-escape-original-game-soundtrack](http://www.mobypixel.com/synthwave-escape-original-game-soundtrack)
+Music Example: [http://www.mobypixel.com/synthwave-escape-original-game-soundtrack](http://www.mobypixel.com/synthwave-escape-original-game-soundtrack)
 
+Game Example: [http://www.mobypixel.com/synthwave-escape](http://www.mobypixel.com/synthwave-escape)
 
 
 ## Implementation
@@ -33,7 +35,7 @@ Music Example - [http://www.mobypixel.com/synthwave-escape-original-game-soundtr
 index.html - The page people will see when they visit `http://www.YOUR_WEBSITE_NAME.com/YOUR_FOLDER_NAME`
 gnarlystyle.css - The styles for this page.
 sample.mp3 - If you are sharing audio, it might be nice to have a sample. Replace it with your own "sample.mp3" file or delete it if you're not using the audio tag.
-.htaccess - This file will remove the need to include "index.html" as url extention.
+.htaccess - This file will remove the need to include "index.html" as url extension.
 img - This is where all the art for the page and store badges is stored. Feel free to delete the badges you don't need or add your own.
 
 2. Change the "GnarlyLinks_Template" folder name to whatever you like. I recommend your project name with a `-` between words. 
@@ -78,7 +80,7 @@ You can add an audio sample to your page:
 <audio controls><source src="sample.mp3" type="audio/mpeg"></audio>
 ```
 
-You can seperate your rows into sections by adding headers:
+You can separate your rows into sections by adding headers:
 ```
 <!-- Section Header -->
 <div class="rowHeaderDiv">
@@ -119,10 +121,16 @@ Add social media links to the bottom of the page:
 
 ## About Gnarly Links
 
-This project was born out of neccessity. I launched an album to all the platforms, and I relied on a service to share those links in one place. I didn't like the idea of those pages going away if I stopped using their service, so I made my own. I'm making this template Open Source because I want to empower creatives to support themselves. You've worked too hard, too long to give away control. I hope it helps make a first impression for your followers most triumphant! 
+This project was born out of necessity. I launched an album to all the platforms, and I relied on a service to share those links in one place. I didn't like the idea of those pages going away if I stopped using their service, so I made my own. I'm making this template Open Source because I want to empower creatives to support themselves. You've worked too hard, too long to give away control. I hope it helps make a first impression for your followers most triumphant! 
 
 If you have any questions, suggestions, or feedback please send them my way. This is as much for me as it is for you.
 
 Enjoy!
 
 Nick Culbertson
+
+## Want to support Gnarly Links?
+
+Share this page or drop some change in the tip jar.
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HKHYVRMC53W7C)
