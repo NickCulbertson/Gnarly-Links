@@ -10,12 +10,13 @@ An Open Source HTML Template to link your music/game/software product pages in o
 
 • Attractive Social Media Embeds
 
-• Store Marketing Badges
+• Store Marketing Badges ***
 
 • Easy to Use
 
 • Fully Customizable & Open Source
 
+*** All marketing badges are trademarks of their respective companies. They are presented in accordance to their marketing resources and identity guidelines. See their sites for more info on presenting marketing banners to their specifications.
 
 
 ## Demos
@@ -127,3 +128,9 @@ If you have any questions, suggestions, or feedback please send them my way. Thi
 Enjoy!
 
 Nick Culbertson
+
+## Want to support Gnarly Links?
+
+Share this page or drop some change in the tip jar.
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](HKHYVRMC53W7C)
