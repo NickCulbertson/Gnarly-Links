@@ -83,6 +83,17 @@ You can add an audio sample to your page:
 <audio controls><source src="sample.mp3" type="audio/mpeg"></audio>
 ```
 
+If you want a rectangular cover image you can remove or change height value of `.coverArt` in the `gnarlystyle.css` file:
+```
+gnarlystyle.css
+
+.coverArt {
+    ...
+    height:  320px;
+    ...
+}
+```
+
 You can separate your rows into sections by adding headers:
 ```
 <!-- Section Header -->
