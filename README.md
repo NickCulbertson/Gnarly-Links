@@ -32,9 +32,13 @@ Game Example: [http://www.mobypixel.com/synthwave-escape](http://www.mobypixel.c
 1. Download the "GnarlyLinks_Template" folder. Here you will find index.html, gnarlystyle.css, sample.mp3, .htaccess, and an image folder.
 
 index.html - The page people will see when they visit `http://www.YOUR_WEBSITE_NAME.com/YOUR_FOLDER_NAME`
+
 gnarlystyle.css - The styles for this page.
+
 sample.mp3 - If you are sharing audio, it might be nice to have a sample. Replace it with your own "sample.mp3" file or delete it if you're not using the audio tag.
+
 .htaccess - This file will remove the need to include "index.html" as url extension.
+
 img - This is where all the art for the page and store badges is stored. Feel free to delete the badges you don't need or add your own.
 
 2. Change the "GnarlyLinks_Template" folder name to whatever you like. I recommend your project name with a `-` between words. 
