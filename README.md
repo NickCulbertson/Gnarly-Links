@@ -3,7 +3,6 @@
 An Open Source HTML Template to link your music/game/software product pages in one place. It's as easy as adding a page to your site.
 
 
-
 ## Features
 
 • Clean Mobile-First Design
@@ -33,9 +32,13 @@ Game Example: [http://www.mobypixel.com/synthwave-escape](http://www.mobypixel.c
 1. Download the "GnarlyLinks_Template" folder. Here you will find index.html, gnarlystyle.css, sample.mp3, .htaccess, and an image folder.
 
 index.html - The page people will see when they visit `http://www.YOUR_WEBSITE_NAME.com/YOUR_FOLDER_NAME`
+
 gnarlystyle.css - The styles for this page.
+
 sample.mp3 - If you are sharing audio, it might be nice to have a sample. Replace it with your own "sample.mp3" file or delete it if you're not using the audio tag.
+
 .htaccess - This file will remove the need to include "index.html" as url extension.
+
 img - This is where all the art for the page and store badges is stored. Feel free to delete the badges you don't need or add your own.
 
 2. Change the "GnarlyLinks_Template" folder name to whatever you like. I recommend your project name with a `-` between words. 
@@ -117,7 +120,11 @@ Add social media links to the bottom of the page:
 </div>
 ```
 
-
+Embed a YouTube video by copying the embed code from the "share" button on your video's page, and pasting it inside of your `<div class="descriptionDiv">` tag (See the [Game Example](http://www.mobypixel.com/synthwave-escape)). Note the changes to the video's width and height:
+```
+<!-- YouTube Preview Video -->
+<iframe width="320" height="180" src="YOUR_EMBED_LINK" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+```
 
 ## About Gnarly Links
 
@@ -127,10 +134,13 @@ If you have any questions, suggestions, or feedback please send them my way. Thi
 
 Enjoy!
 
-Nick Culbertson
+Nick Culbertson [@MobyPixel](https://twitter.com/MobyPixel)
+
+[MobyPixel.com](http://www.mobypixel.com)
+
 
 ## Want to support Gnarly Links?
 
-Share this page or drop some change in the tip jar.
+Share this project or drop some change in the tip jar. Donations are not required, but greatly appreciated! :D
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HKHYVRMC53W7C)
