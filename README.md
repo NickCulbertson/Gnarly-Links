@@ -83,6 +83,17 @@ You can add an audio sample to your page:
 <audio controls><source src="sample.mp3" type="audio/mpeg"></audio>
 ```
 
+If you want a rectangular cover image you can remove or change height value of `.coverArt` in the `gnarlystyle.css` file:
+```
+gnarlystyle.css
+
+.coverArt {
+    ...
+    height:  320px;
+    ...
+}
+```
+
 You can separate your rows into sections by adding headers:
 ```
 <!-- Section Header -->
@@ -128,9 +139,9 @@ Embed a YouTube video by copying the embed code from the "share" button on your 
 
 ## About Gnarly Links
 
-This project was born out of necessity. I launched an album to all the platforms, and I relied on a service to share those links in one place. I didn't like the idea of those pages going away if I stopped using their service, so I made my own. I'm making this template Open Source because I want to empower creatives to support themselves. You've worked too hard, too long to give away control. I hope it helps make a first impression for your followers most triumphant! 
+This project was born out of necessity. I launched an album to all the platforms, and I relied on a service to share those links in one place. I didn't like the idea of those pages going away if I stopped using their service, so I made my own. I'm making this template Open Source because I want to empower creatives to support themselves. You've worked too hard, too long to give away control. I hope it helps make your first impression for your followers most triumphant! 
 
-If you have any questions, suggestions, or feedback please send them my way. This is as much for me as it is for you.
+If you have any questions, suggestions, or feedback please send them my way. This is as much for me as it is for you. If you use it, send me a link! I'd love to see your work. 
 
 Enjoy!
 
@@ -141,6 +152,6 @@ Nick Culbertson [@MobyPixel](https://twitter.com/MobyPixel)
 
 ## Want to support Gnarly Links?
 
-Share this project or drop some change in the tip jar. Donations are not required, but greatly appreciated! :D
+Share the project and/or drop some change in the tip jar. If I've saved you some time in development, please compensate my efforts so that I can keep making cool stuff. Donations are not required, but greatly appreciated! :D
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HKHYVRMC53W7C)
