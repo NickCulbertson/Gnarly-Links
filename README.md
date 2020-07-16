@@ -27,8 +27,11 @@ Website: [http://www.gnarlylinks.com](http://www.gnarlylinks.com)
 
 Music Example: [http://www.mobypixel.com/synthwave-escape-original-game-soundtrack](http://www.mobypixel.com/synthwave-escape-original-game-soundtrack)
 
+![Album](https://github.com/NickCulbertson/VidTest/blob/master/album.png)
+
 Game Example: [http://www.mobypixel.com/synthwave-escape](http://www.mobypixel.com/synthwave-escape)
 
+![Game](https://github.com/NickCulbertson/VidTest/blob/master/game.png)
 
 ## Implementation
 
