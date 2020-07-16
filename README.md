@@ -1,7 +1,10 @@
 # Gnarly Links
 
-An Open Source HTML Template to link your music/game/software product pages in one place. It's as easy as adding a page to your site.
+An Open Source HTML Template to link your digital media product pages. It's as easy as adding a page to your site.
 
+(Click the image to watch Gnarly Links Introduction & Tutorial)
+
+[![Gnarly Links Introduction & Tutorial](https://img.youtube.com/vi/Xrp3zyvwC-c/0.jpg)](https://www.youtube.com/watch?v=Xrp3zyvwC-c "Gnarly Links Introduction & Tutorial")
 
 ## Features
 
