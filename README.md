@@ -158,6 +158,6 @@ Nick Culbertson [@MobyPixel](https://twitter.com/MobyPixel)
 
 ## Want to support Gnarly Links?
 
-Share the project and/or drop some change in the tip jar. If I've saved you some time in development, please compensate my efforts so that I can keep making cool stuff. Donations are not required, but greatly appreciated! :D
+Share the project and/or drop some change in the tip jar. If I've saved you some time, please consider a small donation so that I can keep making cool stuff. Donations are not required, but greatly appreciated! :D
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=HKHYVRMC53W7C)
