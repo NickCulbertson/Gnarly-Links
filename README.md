@@ -59,8 +59,8 @@ img - This is where all the art for the page and store badges is stored. Feel fr
 <!-- Item Row -->
 <div class="rowDiv">
     <a href="https://STORE_URL_LINK" class="rowLink" target="_blank"></a>
-    <img class="rowIcon" src="img/samplerow.png" alt="Store Name"></img>
-    <img class="rowArrow" src="img/arrow.png" alt="Visit Link"></img>
+    <img class="rowIcon" src="img/samplerow.png" height="40" alt="Store Name"></img>
+    <img class="rowArrow" src="img/arrow.png" height="20" width="13" alt="Visit Link"></img>
 </div>
 ```
 
@@ -69,8 +69,8 @@ Example: App Store Link
 <!-- Item Row -->
 <div class="rowDiv">
     <a href="https://STORE_URL_LINK" class="rowLink" target="_blank"></a>
-    <img class="rowIcon" src="img/appstore.png" alt="App Store"></img>
-    <img class="rowArrow" src="img/arrow.png" alt="Visit Link"></img>
+    <img class="rowIcon" src="img/appstore.png" height="40" alt="App Store"></img>
+    <img class="rowArrow" src="img/arrow.png" height="20" width="13" alt="Visit Link"></img>
 </div>
 ```
 
@@ -130,9 +130,9 @@ Add social media links to the bottom of the page:
 <!-- Share Your Socials -->
 <div class="textBubbleDiv">
     <p>Follow us:
-        <a href="https://www.twitter.com/" target="_blank"><img class="socialLink" src="img/twitter.png" alt="Visit Link"></img></a>
-        <a href="https://www.facebook.com" target="_blank"><img class="socialLink" src="img/facebook.png" alt="Visit Link"></img></a>
-        <a href="https://www.instagram.com" target="_blank"><img class="socialLink" src="img/instagram.png" alt="Visit Link"></img></a>
+        <a href="https://www.twitter.com/" target="_blank"><img class="socialLink" src="img/twitter.png" height="25" width="25" alt="Visit Link"></img></a>
+        <a href="https://www.facebook.com" target="_blank"><img class="socialLink" src="img/facebook.png" height="25" width="25" alt="Visit Link"></img></a>
+        <a href="https://www.instagram.com" target="_blank"><img class="socialLink" src="img/instagram.png" height="25" width="25" alt="Visit Link"></img></a>
     </p>
 </div>
 ```
